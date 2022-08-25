@@ -1,0 +1,26 @@
+.form{
+    background-color:rgb(10, 134, 236);
+    padding:2rem;
+    color:#fff;
+    margin-top:2rem;
+    border-radius: 2rem;
+}
+body{
+    background-color: lightblue;
+}
+.btns{
+    background-color: blue;
+    border:none;
+    padding:5px 15px;
+    border-radius: 1rem;
+}
+.register{
+    border:none;
+    background-color: rgb(10, 134, 236);
+    color:rgb(14, 245, 245);
+    text-decoration: underline;
+    font-size: 1.2rem;
+}
+label{
+    font-size: 1.2rem;
+}

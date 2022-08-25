@@ -1,0 +1,46 @@
+
+.profile_form{
+    position:absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 30px;
+    padding:35px;
+    background-color: rgb(200, 21, 245);
+   width:50vh;
+  text-align: center;
+}
+input[type="text"]{
+    margin-top:5px;
+    padding:4px;
+    border:none;
+    outline: none;
+    width:30vh;
+    border-radius: 10px;
+    background-color: lightblue;
+   
+}
+input[type="password"]{
+    margin-top:5px;
+    padding:4px;
+    border:none;
+    outline: none;
+    width:30vh;
+    border-radius: 10px;
+    background-color: lightblue;
+}
+lable{
+    font-size: 1.2rem;
+    color:#fff;
+}
+label{
+    font-size: 1.1rem;
+    color:#fff;
+    margin-left:2px;
+}
+input[type="checkbox"]{
+    width:1rem;
+    height: 1rem;
+    
+    
+}

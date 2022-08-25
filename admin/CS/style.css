@@ -1,0 +1,28 @@
+.form{
+    border:5px solid salmon;
+    border-radius: 10px;
+    padding:1rem;
+    background-color: sandybrown;
+    color:white;
+    margin-top: 3rem;
+    font-weight: bold;
+    text-align: center;
+   
+}
+body{
+    background-color: lightblue;
+}
+.btns{
+    border-radius: 15px;
+    padding:5px 20px 5px 20px;
+    font-size: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sign{
+    text-decoration:none;
+}
+label{
+    font-size: 1.2rem;;
+}
